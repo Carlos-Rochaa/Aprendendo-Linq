@@ -1,0 +1,14 @@
+C:\Users\Carlos Henrique\Desktop\Nelio Alves C# Exercicios\Lambda, delegates, LINQ\LinqLambda\Demo-Linq com lambda\bin\Debug\net8.0\Demo-Linq com lambda.exe
+C:\Users\Carlos Henrique\Desktop\Nelio Alves C# Exercicios\Lambda, delegates, LINQ\LinqLambda\Demo-Linq com lambda\bin\Debug\net8.0\Demo-Linq com lambda.deps.json
+C:\Users\Carlos Henrique\Desktop\Nelio Alves C# Exercicios\Lambda, delegates, LINQ\LinqLambda\Demo-Linq com lambda\bin\Debug\net8.0\Demo-Linq com lambda.runtimeconfig.json
+C:\Users\Carlos Henrique\Desktop\Nelio Alves C# Exercicios\Lambda, delegates, LINQ\LinqLambda\Demo-Linq com lambda\bin\Debug\net8.0\Demo-Linq com lambda.dll
+C:\Users\Carlos Henrique\Desktop\Nelio Alves C# Exercicios\Lambda, delegates, LINQ\LinqLambda\Demo-Linq com lambda\bin\Debug\net8.0\Demo-Linq com lambda.pdb
+C:\Users\Carlos Henrique\Desktop\Nelio Alves C# Exercicios\Lambda, delegates, LINQ\LinqLambda\Demo-Linq com lambda\obj\Debug\net8.0\Demo-Linq com lambda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlos Henrique\Desktop\Nelio Alves C# Exercicios\Lambda, delegates, LINQ\LinqLambda\Demo-Linq com lambda\obj\Debug\net8.0\Demo-Linq com lambda.AssemblyInfoInputs.cache
+C:\Users\Carlos Henrique\Desktop\Nelio Alves C# Exercicios\Lambda, delegates, LINQ\LinqLambda\Demo-Linq com lambda\obj\Debug\net8.0\Demo-Linq com lambda.AssemblyInfo.cs
+C:\Users\Carlos Henrique\Desktop\Nelio Alves C# Exercicios\Lambda, delegates, LINQ\LinqLambda\Demo-Linq com lambda\obj\Debug\net8.0\Demo-Linq com lambda.csproj.CoreCompileInputs.cache
+C:\Users\Carlos Henrique\Desktop\Nelio Alves C# Exercicios\Lambda, delegates, LINQ\LinqLambda\Demo-Linq com lambda\obj\Debug\net8.0\Demo-Linq com lambda.dll
+C:\Users\Carlos Henrique\Desktop\Nelio Alves C# Exercicios\Lambda, delegates, LINQ\LinqLambda\Demo-Linq com lambda\obj\Debug\net8.0\refint\Demo-Linq com lambda.dll
+C:\Users\Carlos Henrique\Desktop\Nelio Alves C# Exercicios\Lambda, delegates, LINQ\LinqLambda\Demo-Linq com lambda\obj\Debug\net8.0\Demo-Linq com lambda.pdb
+C:\Users\Carlos Henrique\Desktop\Nelio Alves C# Exercicios\Lambda, delegates, LINQ\LinqLambda\Demo-Linq com lambda\obj\Debug\net8.0\Demo-Linq com lambda.genruntimeconfig.cache
+C:\Users\Carlos Henrique\Desktop\Nelio Alves C# Exercicios\Lambda, delegates, LINQ\LinqLambda\Demo-Linq com lambda\obj\Debug\net8.0\ref\Demo-Linq com lambda.dll
